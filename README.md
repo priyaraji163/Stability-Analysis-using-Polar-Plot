@@ -38,8 +38,7 @@ end
 ```
 
 ## Output:
-<img width="1789" height="825" alt="Screenshot 2025-11-16 104814" src="https://github.com/user-attachments/assets/2036c1eb-5995-4170-97e6-280623eb9e5e" />
-
+<img width="1422" height="720" alt="Screenshot 2025-11-23 163219" src="https://github.com/user-attachments/assets/626c7d04-d1b6-467b-931f-546935508362" />
 
 ## Result:
 Thus the polar plot for the given transfer function was drawn and verified using MATLAB. <br>
